@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Admin\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(58,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(58,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(67,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ConsoleApplication3.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
