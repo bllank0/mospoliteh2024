@@ -1,0 +1,33 @@
+﻿  ConsoleApplication.cpp
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(69,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(184,15): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(184,15): warning C4305:         with
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(184,15): warning C4305:         [
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(184,15): warning C4305:             _Ty=float
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(184,15): warning C4305:         ]
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(185,15): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(185,15): warning C4305:         with
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(185,15): warning C4305:         [
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(185,15): warning C4305:             _Ty=float
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(185,15): warning C4305:         ]
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(186,15): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(186,15): warning C4305:         with
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(186,15): warning C4305:         [
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(186,15): warning C4305:             _Ty=float
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(186,15): warning C4305:         ]
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(187,15): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(187,15): warning C4305:         with
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(187,15): warning C4305:         [
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(187,15): warning C4305:             _Ty=float
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(187,15): warning C4305:         ]
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(188,15): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(188,15): warning C4305:         with
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(188,15): warning C4305:         [
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(188,15): warning C4305:             _Ty=float
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(188,15): warning C4305:         ]
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(199,28): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(199,28): warning C4305:         with
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(199,28): warning C4305:         [
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(199,28): warning C4305:             _Ty=float
+C:\Users\Admin\source\repos\ConsoleApplication7\ConsoleApplication.cpp(199,28): warning C4305:         ]
+  ConsoleApplication7.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication7.exe
